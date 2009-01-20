@@ -5,9 +5,9 @@
     <version>2</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>ea-root</artifactId>
+  <artifactId>pom-root</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <name>EA Root Archetype</name>
-  <description>Root archetype for creating Enterprise Application</description>
+  <name>POM Root Archetype</name>
+  <description>Root project archetype for creating multi module projects</description>
 </project>
