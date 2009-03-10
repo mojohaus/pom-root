@@ -5,6 +5,6 @@
   <artifactId>${artifactId}</artifactId>
   <packaging>pom</packaging>
   <version>${version}</version>
-  <name>${artifactId} Maven Multi Project</name>
+  <name>${artifactId} Multi Project</name>
   <url>http://maven.apache.org</url>
 </project>
